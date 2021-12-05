@@ -1,10 +1,3 @@
 # FE_study
 
-## as
-
-### 333
-
-adasdas
-
-
-* asdasd
+이 레포지토리는 FE 공부과정입니다.
